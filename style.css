@@ -10,7 +10,7 @@
   --clr-neutral-200: hsl(0 0% 98%);
   --clr-neutral-900: hsl(232, 12%, 13%);
 
-  --ff-primary: "Be Vietnam Pro", sans-serif;
+  --ff-primary: "Roboto", sans-serif;
 
   --ff-body: var(--ff-primary);
   --ff-heading: var(--ff-primary);
@@ -43,6 +43,27 @@
   --size-700: 3rem;
   --size-800: 4rem;
   --size-900: 5rem;
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 400;
+  src: url("fonts/roboto-regular-webfont.woff2") format("woff2"),
+    url("fonts/roboto-regular-webfont.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 500;
+  src: url("fonts/roboto-medium-webfont.woff2") format("woff2"),
+    url("fonts/roboto-medium-webfont.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 700;
+  src: url("fonts/roboto-bold-webfont.woff2") format("woff2"),
+    url("fonts/roboto-bold-webfont.woff2") format("woff");
 }
 
 @media (min-width: 47em) {
