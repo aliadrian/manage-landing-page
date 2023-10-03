@@ -22,6 +22,18 @@ navToggle.addEventListener('click', () => {
   }
 })
 
+document.addEventListener('DOMContentLoaded', function () {
+  var navIcons = document.querySelectorAll('#nav-icon3');
+
+  function toggleOpenClass() {
+    this.classList.toggle('open');
+  }
+
+  navIcons.forEach(function (navIcon) {
+    navIcon.addEventListener('click', toggleOpenClass);
+  });
+});
+
 const year = document.getElementById('year');
 year.innerHTML = new Date().getFullYear();
 
