@@ -31,8 +31,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 <h2>Links</h2>
 
-- Solution URL: [Room homepage | Frontend Mentor] https://www.frontendmentor.io/solutions/news-homepage-using-grid-flex-and-custom-properties-1H6M2uRNZn
-- Live Site URL: https://news-homepage-3.netlify.app/
+- Solution URL: [Room homepage | Frontend Mentor] https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5
+- Live Site URL: https://manage-landing-page-by-adrian.netlify.app/
 
 <br>
 
