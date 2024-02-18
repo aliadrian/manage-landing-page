@@ -60,7 +60,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/desktop_screenshot.PNG)
+![](design/desktop_screenshot.PNG)
 
 ## My process
 
