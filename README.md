@@ -26,12 +26,12 @@
 
 </div>
 
-This is a solution to the [Room homepage] https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl. <br>
+This is a solution to the [Manage homepage] https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5 <br>
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2>Links</h2>
 
-- Solution URL: [Room homepage | Frontend Mentor] https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5
+- Solution URL: [Manage homepage | Frontend Mentor] https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5
 - Live Site URL: https://manage-landing-page-by-adrian.netlify.app/
 
 <br>
